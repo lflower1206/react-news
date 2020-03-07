@@ -13,10 +13,10 @@
     "styled-system": "^5.1.5"
   },
   "scripts": {
-    "build": "yarn build:esm",
+    "build": "yarn build:esm && yarn build:storybook",
     "build:esm": "tsc --module es2015 --target es5 --outDir dist/esm",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build:storybook": "build-storybook"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

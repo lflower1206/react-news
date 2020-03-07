@@ -4,7 +4,7 @@
   "description": "A side project that writing a News platform in React",
   "repository": {
     "type": "git",
-    "url":"git@github.com:lflower1206/react-news.git"
+    "url": "git@github.com:lflower1206/react-news.git"
   },
   "author": "lflower126 <lflower1206@gmail.com>",
   "private": true,
@@ -39,6 +39,7 @@
     ]
   },
   "scripts": {
+    "build": "yarn workspace ui-components build",
     "test": "jest"
   }
 }
