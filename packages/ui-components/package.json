@@ -1,0 +1,48 @@
+{
+  "name": "ui-components",
+  "version": "0.0.1",
+  "description": "UI components written in React, Typescript and Styled-System",
+  "main": "src/index.ts",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "author": "lflower1206",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
+  },
+  "scripts": {
+    "build": "yarn build:esm",
+    "build:esm": "tsc --module es2015 --target es5 --outDir dist/esm",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@storybook/addon-actions": "^5.3.13",
+    "@storybook/addon-links": "^5.3.13",
+    "@storybook/addons": "^5.3.13",
+    "@storybook/cli": "^5.3.13",
+    "@storybook/preset-typescript": "^1.2.0",
+    "@storybook/react": "^5.3.13",
+    "@testing-library/react": "^9.4.1",
+    "@types/react": "^16.9.22",
+    "@types/react-dom": "^16.9.5",
+    "@types/styled-components": "^5.0.0",
+    "@types/styled-system": "^5.1.7",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react-app": "^9.1.1",
+    "fork-ts-checker-webpack-plugin": "^4.0.4",
+    "jest-styled-components": "^7.0.0",
+    "react": "^16.12.0",
+    "react-docgen-typescript-loader": "^3.6.0",
+    "react-dom": "^16.12.0",
+    "ts-loader": "^6.2.1"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.8.2"
+  }
+}

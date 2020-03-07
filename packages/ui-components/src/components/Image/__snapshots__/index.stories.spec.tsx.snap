@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image should render Image stories 1`] = `
+<DocumentFragment>
+  .c2 {
+  position: relative;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.c3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.c0 {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.16);
+}
+
+.c1 {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.16);
+  width: 300px;
+}
+
+<div
+    class="css-lii6sj"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th
+            class="c0"
+          >
+            <div
+              class="css-nychs"
+            >
+              Ratio
+            </div>
+          </th>
+          <th
+            class="c1"
+            width="300"
+          >
+            <div
+              class="css-nychs"
+            >
+              Image
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              16:9
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c2"
+            >
+              <img
+                class="c3"
+                src="http://d.line-cdn.net/lf/picimg/content/20170620/722LINE_sallybigface_sally_wallpaper.png"
+              />
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;

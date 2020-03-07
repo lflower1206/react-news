@@ -1,0 +1,305 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text should render Tex5 stories 1`] = `
+<DocumentFragment>
+  .c1 {
+  font-size: 40px;
+  line-height: 56px;
+  font-weight: 700;
+  color: #000;
+}
+
+.c2 {
+  font-size: 32px;
+  line-height: 46px;
+  font-weight: 700;
+  color: #000;
+}
+
+.c3 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c4 {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c5 {
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c6 {
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c7 {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c8 {
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 400;
+  color: #000;
+}
+
+.c0 {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.16);
+}
+
+<div
+    class="css-lii6sj"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th
+            class="c0"
+          >
+            <div
+              class="css-nychs"
+            >
+              Text
+            </div>
+          </th>
+          <th
+            class="c0"
+          >
+            <div
+              class="css-nychs"
+            >
+              @Mobile
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              A
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c1"
+              color="#000"
+              font-size="40"
+              font-weight="700"
+            >
+              Text A-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 40; Font weight: 700; Line-height: 56px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              B
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c2"
+              color="#000"
+              font-size="32"
+              font-weight="700"
+            >
+              Text B-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 32; Font weight: 700; Line-height: 46px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+            rowspan="2"
+          >
+            <div
+              class="css-nychs"
+            >
+              C
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c3"
+              color="#000"
+              font-size="16"
+              font-weight="400"
+            >
+              Text C-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 16; Font weight: 400; Line-height: 24px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c4"
+              color="#000"
+              font-size="16"
+              font-weight="400"
+            >
+              Text C-Wide
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 16; Font weight: 400; Line-height: 28px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              D
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c5"
+              color="#000"
+              font-size="15"
+              font-weight="400"
+            >
+              Text D-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 15; Font weight: 400; Line-height: 22px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              E
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c6"
+              color="#000"
+              font-size="13"
+              font-weight="400"
+            >
+              Text E-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 13; Font weight: 400; Line-height: 18px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+            rowspan="2"
+          >
+            <div
+              class="css-nychs"
+            >
+              F
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c7"
+              color="#000"
+              font-size="12"
+              font-weight="400"
+            >
+              Text F-Normal
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 12; Font weight: 400; Line-height: 18px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="c8"
+              color="#000"
+              font-size="12"
+              font-weight="400"
+            >
+              Text F-Narrow
+            </div>
+            <div
+              class="css-nychs"
+            >
+              Font size: 12; Font weight: 400; Line-height: 14px
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;

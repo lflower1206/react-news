@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render Header stories 1`] = `
+<DocumentFragment>
+  .c0 {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.16);
+}
+
+.c1 {
+  color: #000;
+  font-size: 26px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.c2 {
+  color: #000;
+  font-size: 21px;
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.c3 {
+  color: #000;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+.c4 {
+  color: #000;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+.c5 {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.c6 {
+  color: #000;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 500;
+}
+
+.c7 {
+  color: #000;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+<div
+    class="css-lii6sj"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th
+            class="c0"
+          >
+            <div
+              class="css-nychs"
+            >
+              Header
+            </div>
+          </th>
+          <th
+            class="c0"
+          >
+            <div
+              class="css-nychs"
+            >
+              @Mobile
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              H1
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <h1
+              class="c1"
+              color="#000"
+              font-size="26"
+              font-weight="700"
+            >
+              Header H1-MD-Normal
+            </h1>
+            <div
+              class="css-nychs"
+            >
+              Font size: 26; Font weight: 700; Line-height: 34px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+            rowspan="2"
+          >
+            <div
+              class="css-nychs"
+            >
+              H2
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <h2
+              class="c2"
+              color="#000"
+              font-size="21"
+              font-weight="700"
+            >
+              Header H2-MD-Normal
+            </h2>
+            <div
+              class="css-nychs"
+            >
+              Font size: 21; Font weight: 700; Line-height: 28px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <h2
+              class="c3"
+              color="#000"
+              font-size="18"
+              font-weight="700"
+            >
+              Header H2-SM-Normal
+            </h2>
+            <div
+              class="css-nychs"
+            >
+              Font size: 18; Font weight: 700; Line-height: 26px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+            rowspan="3"
+          >
+            <div
+              class="css-nychs"
+            >
+              H3
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <h3
+              class="c4"
+              color="#000"
+              font-size="18"
+              font-weight="700"
+            >
+              Header H3-LG-Normal
+            </h3>
+            <div
+              class="css-nychs"
+            >
+              Font size: 18; Font weight: 700; Line-height: 26px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <h3
+              class="c5"
+              color="#000"
+              font-size="16"
+              font-weight="700"
+            >
+              Header H3-MD-Normal
+            </h3>
+            <div
+              class="css-nychs"
+            >
+              Font size: 16; Font weight: 700; Line-height: 24px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <h3
+              class="c6"
+              color="#000"
+              font-size="15"
+              font-weight="500"
+            >
+              Header H3-SM-Normal
+            </h3>
+            <div
+              class="css-nychs"
+            >
+              Font size: 15; Font weight: 500; Line-height: 22px
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-1mc22oi"
+          >
+            <div
+              class="css-nychs"
+            >
+              H4
+            </div>
+          </td>
+          <td
+            class="css-1mc22oi"
+          >
+            <h4
+              class="c7"
+              color="#000"
+              font-size="13"
+              font-weight="500"
+            >
+              Header H4-MD-Normal
+            </h4>
+            <div
+              class="css-nychs"
+            >
+              Font size: 13; Font weight: 500; Line-height: 18px
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
